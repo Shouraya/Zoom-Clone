@@ -1,3 +1,5 @@
+const { text } = require("body-parser");
+
 const socket = io('/')
 const videoGrid = document.getElementById('video-grid');
 const myVideo = document.createElement('video');
@@ -30,7 +32,7 @@ navigator.mediaDevices.getUserMedia({
         connecToNewUser(userId, stream);
     })
 })
-
+//new id automatically generated
 peer.on('open', id => {
     socket.emit('join-room', ROOM_ID, id);
 })
