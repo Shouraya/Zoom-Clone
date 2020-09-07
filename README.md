@@ -9,7 +9,8 @@ Using these basic features can bring about tremendous beneficial aspects: <br/>
 * PROFESSIONAL SECTOR
 <br/>
 <br/>
-## How to use this app ##
+## How to use this app ## 
+____
 Anyone who wishes to conduct a free meeting (with or without video) has to just click on this link : <br/>
 <div align="center">
 <pre>
@@ -19,6 +20,7 @@ Anyone who wishes to conduct a free meeting (with or without video) has to just 
 A unique room id will be genrated each time when you open the above link, later share the link with the person with whom you want to start the meeting and he will be in the same meeting room. 
 
 ## Technologies Used ##
+___
 ```
  1) Node.js
  2) Express JS
