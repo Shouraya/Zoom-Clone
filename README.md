@@ -8,9 +8,9 @@ Using these basic features can bring about tremendous beneficial aspects: <br/>
 * EDUCATIONAL SECTOR (especially for students) <br/>
 * PROFESSIONAL SECTOR
 <br/>
-<br/>
-## How to use this app ## 
-____
+
+How to use this app 
+---------------
 Anyone who wishes to conduct a free meeting (with or without video) has to just click on this link : <br/>
 <div align="center">
 <pre>
